@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: qot.tests.PetsTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.662 s - in qot.tests.PetsTest
+testThatICanGetPetByStatus{String}[1]  Time elapsed: 3.429 s
+testThatICanGetPetByStatus{String}[2]  Time elapsed: 1.676 s
+testThatICanGetPetByStatus{String}[3]  Time elapsed: 1.682 s
